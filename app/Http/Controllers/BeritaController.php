@@ -5,6 +5,9 @@ namespace App\Http\Controllers;
 use App\Models\Berita;
 use App\Models\KategoriBerita;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\Str;
+use RealRashid\SweetAlert\Facades\Alert;
 
 class BeritaController extends Controller
 {

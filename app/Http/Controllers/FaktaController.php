@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Fakta;
 use Illuminate\Http\Request;
+use RealRashid\SweetAlert\Facades\Alert;
 
 class FaktaController extends Controller
 {

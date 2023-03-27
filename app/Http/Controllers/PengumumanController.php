@@ -5,6 +5,9 @@ namespace App\Http\Controllers;
 use App\Models\KategoriPengumuman;
 use App\Models\Pengumuman;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\Str;
+use RealRashid\SweetAlert\Facades\Alert;
 
 class PengumumanController extends Controller
 {

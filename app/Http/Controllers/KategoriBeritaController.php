@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use App\Models\KategoriBerita;
 use Illuminate\Http\Request;
+use Illuminate\Support\Str;
+use RealRashid\SweetAlert\Facades\Alert;
 
 class KategoriBeritaController extends Controller
 {
