@@ -270,7 +270,7 @@
                                     <iframe class="responsive-iframe" frameborder="0" allowfullscreen="1"
                                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                             title="Video Profile SD Islam Bintang Juara Semarang | Sekolah Calon Pemimpin Muslim | Sekolah Ramah Anak"
-                                            
+
                                             src="https://www.youtube.com/embed/1GL6RJMI0S4?controls=1&amp;rel=0&amp;playsinline=0&amp;modestbranding=0&amp;autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsd.bintangjuara.sch.id&amp;widgetid=1"
                                             id="widget2"></iframe>
                                 </div>
@@ -283,7 +283,7 @@
                         <div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
                             <iframe class="responsive-iframe" frameborder="0" allowfullscreen="1"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                    title="Leadership Camp SD Islam Bintang Juara | &quot;More Than Just Adventure&quot;" 
+                                    title="Leadership Camp SD Islam Bintang Juara | &quot;More Than Just Adventure&quot;"
                                     src="https://www.youtube.com/embed/zvGGvawkXPo?controls=1&amp;rel=0&amp;playsinline=0&amp;modestbranding=0&amp;autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsd.bintangjuara.sch.id&amp;widgetid=3"
                                     id="widget4"></iframe>
                         </div>
@@ -444,7 +444,7 @@
                     </div>
                     <div class="col-9">
                         <div class="main-scroll-div">
-                            
+
                             <div class="cover">
                                 <div class="scroll-images">
                                     @forelse ($galeri as $row)
@@ -453,7 +453,7 @@
                                     @endforelse
                                 </div>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>

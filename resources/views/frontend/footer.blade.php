@@ -56,17 +56,17 @@
 
                         <div class="row">
                             <p>
-                                <a href="{{route('beranda')}}" style="text-decoration: none;">
-                                    <strong class="text-white">Home</strong>
-                                </a>  .
-                                <a href="{{route('beranda')}}#kontak" style="text-decoration: none;">
-                                    <strong class="text-white">Kontak Kami</strong>
-                                </a>
+{{--                                <a href="{{route('beranda')}}" style="text-decoration: none;">--}}
+{{--                                    <strong class="text-white">Home</strong>--}}
+{{--                                </a>  .--}}
+{{--                                <a href="{{route('beranda')}}#kontak" style="text-decoration: none;">--}}
+{{--                                    <strong class="text-white">Kontak Kami</strong>--}}
+{{--                                </a>--}}
                             </p>
                         </div>
                     </div>
                 </div>
-            
+
             <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
             </div>
             <div class="col-md-3 col-lg-3 col-xl-3  mt-3">
