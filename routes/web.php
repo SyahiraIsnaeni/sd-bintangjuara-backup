@@ -1,6 +1,25 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\KategoriKegiatanController;
+use App\Http\Controllers\KategoriBeritaController;
+use App\Http\Controllers\KategoriPengumumanController;
+use App\Http\Controllers\KegiatanController;
+use App\Http\Controllers\BeritaController;
+use App\Http\Controllers\PengumumanController;
+use App\Http\Controllers\ArtikelController;
+use App\Http\Controllers\UserController;
+use App\Http\Controllers\GaleriController;
+use App\Http\Controllers\HistoryKegiatanController;
+use App\Http\Controllers\HistoryArtikelController;
+use App\Http\Controllers\HistoryBeritaController;
+use App\Http\Controllers\HistoryPengumumanController;
+use App\Http\Controllers\TestimoniController;
+use App\Http\Controllers\JumbotronController;
+use App\Http\Controllers\GuruController;
+use App\Http\Controllers\WaqafController;
+use App\Http\Controllers\FaktaController;
 
 /*
 |--------------------------------------------------------------------------
